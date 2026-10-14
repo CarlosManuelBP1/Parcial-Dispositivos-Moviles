@@ -71,19 +71,6 @@ Para cargar imágenes remotas, `AndroidManifest.xml` debe incluir:
 <uses-permission android:name="android.permission.INTERNET" />
 ```
 
-## 📸 Capturas
-
-Agrega capturas reales de la aplicación en una carpeta como `capturas/` y enlázalas aquí. Se recomienda incluir:
-
-- Lista de personajes con búsqueda y filtros.
-- Pantalla de detalle de un héroe y de un villano.
-- Pantalla de favoritos.
-
-Ejemplo de enlace en Markdown:
-
-```markdown
-![Lista de personajes](capturas/lista-personajes.png)
-```
 
 ## 🧩 Decisiones de diseño
 
